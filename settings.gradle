@@ -1,0 +1,2 @@
+rootProject.name='Note Me 3'
+include ':app'
